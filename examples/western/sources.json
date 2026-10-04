@@ -1,0 +1,482 @@
+[
+  {
+    "key": "bison-solo",
+    "title": "黄石野牛近景",
+    "author": "Daniel Erlandson",
+    "source": "https://www.pexels.com/photo/american-bison-grazing-in-yellowstone-national-park-31317365/",
+    "download": "https://images.pexels.com/photos/31317365/pexels-photo-31317365.jpeg?cs=srgb&dl=pexels-daniel-erlandson-2150649940-31317365.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      5472,
+      3648
+    ],
+    "location_evidence": "United States；标题与描述明确 Yellowstone National Park",
+    "sticker_intent": "单只野牛的完整轮廓；适合毛发边缘与动物贴纸。",
+    "usage": [
+      {
+        "page": 10,
+        "role": "黄石野牛原摄影，保留干草和林地环境",
+        "type": "photograph"
+      },
+      {
+        "page": 10,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      },
+      {
+        "page": 14,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "cablecar-sun",
+    "title": "阳光下的旧金山缆车",
+    "author": "Clément Proust",
+    "source": "https://www.pexels.com/photo/classic-san-francisco-cable-car-on-a-sunny-day-35698398/",
+    "download": "https://images.pexels.com/photos/35698398/pexels-photo-35698398.jpeg?cs=srgb&dl=pexels-clement-proust-363898785-35698398.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      3897,
+      5846
+    ],
+    "location_evidence": "San Francisco, Californie, États-Unis",
+    "sticker_intent": "车厢正面与坡道；适合交通工具贴纸。",
+    "usage": [
+      {
+        "page": 6,
+        "role": "缆车街景纵幅，保留木车厢与坡道轨道",
+        "type": "photograph"
+      },
+      {
+        "page": 6,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      },
+      {
+        "page": 14,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "wheel",
+    "title": "圣莫尼卡摩天轮",
+    "author": "Ricky Esquivel",
+    "source": "https://www.pexels.com/photo/photo-of-ferris-wheel-during-daytime-2974664/",
+    "download": "https://images.pexels.com/photos/2974664/pexels-photo-2974664.jpeg?cs=srgb&dl=pexels-rickyesquivel-2974664.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      3727,
+      5590
+    ],
+    "location_evidence": "Santa Monica, USA",
+    "sticker_intent": "完整轮盘、彩色座舱与细辐条；适合地标异形贴纸。",
+    "usage": [
+      {
+        "page": 1,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      },
+      {
+        "page": 13,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      },
+      {
+        "page": 14,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      }
+    ],
+    "included_as_photograph": false
+  },
+  {
+    "key": "pier",
+    "title": "圣莫尼卡码头",
+    "author": "Petra Nesti",
+    "source": "https://www.pexels.com/photo/ferris-wheel-on-dock-under-blue-sky-14229635/",
+    "download": "https://images.pexels.com/photos/14229635/pexels-photo-14229635.jpeg?cs=srgb&dl=pexels-petra-nesti-1766376-14229635.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      3024,
+      4032
+    ],
+    "location_evidence": "Santa Monica, United States",
+    "sticker_intent": "蓝天、码头和海浪用于手帐场景；轮盘也可作为小型细节贴纸。",
+    "usage": [
+      {
+        "page": 1,
+        "role": "封面海岸撕边：保留码头与浪花",
+        "type": "photograph"
+      },
+      {
+        "page": 13,
+        "role": "纸袋里露出的码头照片：首尾索引",
+        "type": "photograph"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "tower",
+    "title": "加州海滩救生塔",
+    "author": "Mahoney Fotos",
+    "source": "https://www.pexels.com/photo/scenic-lifeguard-tower-on-california-beach-30446015/",
+    "download": "https://images.pexels.com/photos/30446015/pexels-photo-30446015.jpeg?cs=srgb&dl=pexels-mahoneyfotos-30446015.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      6000,
+      4000
+    ],
+    "location_evidence": "United States；标题及描述注明 California beach，具体海滩未标注",
+    "sticker_intent": "救生塔、扶梯、平台与支架；适合建筑异形贴纸。",
+    "usage": [
+      {
+        "page": 3,
+        "role": "加州海岸环境照片，完整救生塔和海面",
+        "type": "photograph"
+      },
+      {
+        "page": 3,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      },
+      {
+        "page": 14,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "canyon",
+    "title": "羚羊峡谷",
+    "author": "Paul IJsendoorn",
+    "source": "https://www.pexels.com/photo/antelope-canyon-33041/",
+    "download": "https://images.pexels.com/photos/33041/antelope-canyon-lower-canyon-arizona.jpg?cs=srgb&dl=pexels-photospublic-33041.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      4167,
+      2541
+    ],
+    "location_evidence": "Page, AZ, United States",
+    "sticker_intent": "岩层曲线和光影；适合自由形纸片、岩石纹理与色彩素材。",
+    "usage": [
+      {
+        "page": 2,
+        "role": "地点索引：亚利桑那岩层",
+        "type": "photograph"
+      },
+      {
+        "page": 7,
+        "role": "圆润不对称纸窗：沿着岩层曲线观看峡谷",
+        "type": "photograph"
+      },
+      {
+        "page": 8,
+        "role": "峡谷岩层横幅作为地点间纹理对照",
+        "type": "photograph"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "portrait",
+    "title": "金门大桥旅途人像",
+    "author": "Ava Wittkop",
+    "source": "https://www.pexels.com/photo/woman-posing-with-golden-gate-in-background-14205656/",
+    "download": "https://images.pexels.com/photos/14205656/pexels-photo-14205656.jpeg?cs=srgb&dl=pexels-avaalexandraw-14205656.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      1984,
+      2976
+    ],
+    "location_evidence": "San Francisco, CA, United States",
+    "sticker_intent": "人物与地标共同建立旅行记忆；适合人像留影纸片。",
+    "usage": [
+      {
+        "page": 5,
+        "role": "真实原摄影人物留影：不生成新面孔",
+        "type": "photograph"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "farm",
+    "title": "蒙大拿夏日农场",
+    "author": "Mohan Nannapaneni",
+    "source": "https://www.pexels.com/photo/farm-in-summer-12356263/",
+    "download": "https://images.pexels.com/photos/12356263/pexels-photo-12356263.jpeg?cs=srgb&dl=pexels-mnannapaneni-12356263.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      5616,
+      3744
+    ],
+    "location_evidence": "MT, United States",
+    "sticker_intent": "农场全景与田野色彩；是否提取建筑取决于主体实际大小。",
+    "usage": [
+      {
+        "page": 2,
+        "role": "地点索引：蒙大拿田野",
+        "type": "photograph"
+      },
+      {
+        "page": 11,
+        "role": "蒙大拿田野：保留山脉、农场与绿地关系",
+        "type": "photograph"
+      },
+      {
+        "page": 11,
+        "role": "缩小观察片：农场与山脉的尺度",
+        "type": "photograph"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "griffith",
+    "title": "格里菲斯天文台",
+    "author": "Willbone Gallery",
+    "source": "https://www.pexels.com/photo/griffith-observatory-under-clear-blue-sky-35673260/",
+    "download": "https://images.pexels.com/photos/35673260/pexels-photo-35673260.jpeg?cs=srgb&dl=pexels-willbone-gallery-706221424-35673260.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      4813,
+      6228
+    ],
+    "location_evidence": "Los Angeles, United States；标题及描述明确 Griffith Observatory",
+    "usage": [
+      {
+        "page": 1,
+        "role": "封面天文台照片：和第三跨页的建筑贴纸呼应",
+        "type": "photograph"
+      },
+      {
+        "page": 4,
+        "role": "格里菲斯天文台全景：圆顶、坡地与天空",
+        "type": "photograph"
+      },
+      {
+        "page": 4,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      },
+      {
+        "page": 14,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "prismatic",
+    "title": "黄石大棱镜温泉",
+    "author": "Max Vyolsen",
+    "source": "https://www.pexels.com/photo/grand-prismatic-spring-in-yellowstone-national-park-24244128/",
+    "download": "https://images.pexels.com/photos/24244128/pexels-photo-24244128.jpeg?cs=srgb&dl=pexels-maxvyolsen-24244128.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      3997,
+      2997
+    ],
+    "location_evidence": "United States；标题及描述明确 Grand Prismatic Spring in Yellowstone National Park",
+    "usage": [
+      {
+        "page": 9,
+        "role": "大棱镜温泉：原摄影天然水色与橙色边缘",
+        "type": "photograph"
+      },
+      {
+        "page": 9,
+        "role": "温泉圆形观察片：重复原图的颜色边界",
+        "type": "photograph"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "goldengate",
+    "title": "金门大桥与海湾",
+    "author": "Abhishek Navlakha",
+    "source": "https://www.pexels.com/photo/golden-gate-bridge-in-san-francisco-on-a-sunny-day-32446588/",
+    "download": "https://images.pexels.com/photos/32446588/pexels-photo-32446588.jpeg?cs=srgb&dl=pexels-navlakha-32446588.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      9504,
+      5346
+    ],
+    "location_evidence": "San Francisco, California, United States；金门大桥标题与描述",
+    "usage": [
+      {
+        "page": 2,
+        "role": "地点索引：旧金山海湾",
+        "type": "photograph"
+      },
+      {
+        "page": 5,
+        "role": "金门桥全景，与留影的桥塔互相对应",
+        "type": "photograph"
+      },
+      {
+        "page": 13,
+        "role": "纸袋里的海湾照片：首尾索引",
+        "type": "photograph"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "venice",
+    "title": "威尼斯海滩滑板场",
+    "author": "Mariya Eskina",
+    "source": "https://www.pexels.com/photo/sunny-day-at-venice-beach-skate-park-38007185/",
+    "download": "https://images.pexels.com/photos/38007185/pexels-photo-38007185.jpeg?cs=srgb&dl=pexels-mariya-eskina-555701080-38007185.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      6048,
+      4024
+    ],
+    "location_evidence": "Los Angeles, United States；标题及描述明确 Venice Beach Skate Park",
+    "usage": [
+      {
+        "page": 2,
+        "role": "地点索引：洛杉矶海岸",
+        "type": "photograph"
+      },
+      {
+        "page": 3,
+        "role": "威尼斯滑板场：真实游客与棕榈树林",
+        "type": "photograph"
+      },
+      {
+        "page": 4,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      },
+      {
+        "page": 14,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      },
+      {
+        "page": 15,
+        "role": "异形照片衍生贴纸",
+        "type": "derivative-sticker"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "horseshoe",
+    "title": "亚利桑那马蹄湾",
+    "author": "Francesco Ungaro",
+    "source": "https://www.pexels.com/photo/horseshoe-bend-arizona-1051553/",
+    "download": "https://images.pexels.com/photos/1051553/pexels-photo-1051553.jpeg?cs=srgb&dl=pexels-francesco-ungaro-1051553.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      6000,
+      4000
+    ],
+    "location_evidence": "Page, United States；标题及描述明确 Horseshoe Bend, Arizona",
+    "usage": [
+      {
+        "page": 8,
+        "role": "马蹄湾全景，完整河曲作为主景",
+        "type": "photograph"
+      },
+      {
+        "page": 8,
+        "role": "同一河曲的圆窗近景，突出水与岩壁的关系",
+        "type": "photograph"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "oldfaithful",
+    "title": "黄石老忠实间歇泉",
+    "author": "Andrew Patrick Photo",
+    "source": "https://www.pexels.com/photo/old-faithful-erupting-under-the-blue-sky-14925061/",
+    "download": "https://images.pexels.com/photos/14925061/pexels-photo-14925061.jpeg?cs=srgb&dl=pexels-am83-14925061.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      4247,
+      2813
+    ],
+    "location_evidence": "Yellowstone National Park, WY, United States；标题明确 Old Faithful",
+    "usage": [
+      {
+        "page": 10,
+        "role": "老忠实泉喷发原摄影主片，完整蒸汽与森林关系",
+        "type": "photograph"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "twilight",
+    "title": "圣莫尼卡蓝调时刻",
+    "author": "JINGQIN LIN",
+    "source": "https://www.pexels.com/photo/santa-monica-pier-at-twilight-with-neon-ferris-wheel-37186106/",
+    "download": "https://images.pexels.com/photos/37186106/pexels-photo-37186106.jpeg?cs=srgb&dl=pexels-jingqin-lin-2160897817-37186106.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      5594,
+      3729
+    ],
+    "location_evidence": "Santa Monica, United States；标题及描述明确 Santa Monica Pier",
+    "usage": [
+      {
+        "page": 1,
+        "role": "封面蓝调照片：白天与入夜的码头对照",
+        "type": "photograph"
+      },
+      {
+        "page": 13,
+        "role": "照片口袋里露出的夜景，与白天留影对照",
+        "type": "photograph"
+      },
+      {
+        "page": 15,
+        "role": "收尾夜景：呼应封面码头，由白天读到入夜",
+        "type": "photograph"
+      }
+    ],
+    "included_as_photograph": true
+  },
+  {
+    "key": "barn",
+    "title": "蒙大拿山脚的白色谷仓",
+    "author": "Kerry",
+    "source": "https://www.pexels.com/photo/mountain-near-house-534415/",
+    "download": "https://images.pexels.com/photos/534415/pexels-photo-534415.jpeg?cs=srgb&dl=pexels-kerry-160593-534415.jpg&fm=jpg",
+    "license": "https://www.pexels.com/license/",
+    "dimensions": [
+      3456,
+      2304
+    ],
+    "location_evidence": "Pexels 详情页明确 Bozeman, MT, United States",
+    "sticker_intent": "不生成贴纸，作为田野折页摄影",
+    "usage": [
+      {
+        "page": 12,
+        "role": "博兹曼白谷仓与山脉纵幅，保留建筑整体",
+        "type": "photograph"
+      },
+      {
+        "page": 12,
+        "role": "谷仓圆窗细节：在同一张照片中重读建筑",
+        "type": "photograph"
+      }
+    ],
+    "included_as_photograph": true
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "summary": "这是公开摄影与主题文字组成的美西素材演示：15 张原摄影入册、6 枚照片衍生贴纸、15 页纸本手帐。人物保留原貌，贴纸经图像模型重绘；素材不是同一位旅客的真实行程，人物与品牌不为本产品代言。",
+  "font_note": "Long Cang 手写字体使用 SIL Open Font License 1.1。",
+  "photos": [
+    {
+      "title": "黄石野牛近景",
+      "author": "Daniel Erlandson",
+      "source": "https://www.pexels.com/photo/american-bison-grazing-in-yellowstone-national-park-31317365/"
+    },
+    {
+      "title": "阳光下的旧金山缆车",
+      "author": "Clément Proust",
+      "source": "https://www.pexels.com/photo/classic-san-francisco-cable-car-on-a-sunny-day-35698398/"
+    },
+    {
+      "title": "圣莫尼卡摩天轮",
+      "author": "Ricky Esquivel",
+      "source": "https://www.pexels.com/photo/photo-of-ferris-wheel-during-daytime-2974664/"
+    },
+    {
+      "title": "圣莫尼卡码头",
+      "author": "Petra Nesti",
+      "source": "https://www.pexels.com/photo/ferris-wheel-on-dock-under-blue-sky-14229635/"
+    },
+    {
+      "title": "加州海滩救生塔",
+      "author": "Mahoney Fotos",
+      "source": "https://www.pexels.com/photo/scenic-lifeguard-tower-on-california-beach-30446015/"
+    },
+    {
+      "title": "羚羊峡谷",
+      "author": "Paul IJsendoorn",
+      "source": "https://www.pexels.com/photo/antelope-canyon-33041/"
+    },
+    {
+      "title": "金门大桥旅途人像",
+      "author": "Ava Wittkop",
+      "source": "https://www.pexels.com/photo/woman-posing-with-golden-gate-in-background-14205656/"
+    },
+    {
+      "title": "蒙大拿夏日农场",
+      "author": "Mohan Nannapaneni",
+      "source": "https://www.pexels.com/photo/farm-in-summer-12356263/"
+    },
+    {
+      "title": "格里菲斯天文台",
+      "author": "Willbone Gallery",
+      "source": "https://www.pexels.com/photo/griffith-observatory-under-clear-blue-sky-35673260/"
+    },
+    {
+      "title": "黄石大棱镜温泉",
+      "author": "Max Vyolsen",
+      "source": "https://www.pexels.com/photo/grand-prismatic-spring-in-yellowstone-national-park-24244128/"
+    },
+    {
+      "title": "金门大桥与海湾",
+      "author": "Abhishek Navlakha",
+      "source": "https://www.pexels.com/photo/golden-gate-bridge-in-san-francisco-on-a-sunny-day-32446588/"
+    },
+    {
+      "title": "威尼斯海滩滑板场",
+      "author": "Mariya Eskina",
+      "source": "https://www.pexels.com/photo/sunny-day-at-venice-beach-skate-park-38007185/"
+    },
+    {
+      "title": "亚利桑那马蹄湾",
+      "author": "Francesco Ungaro",
+      "source": "https://www.pexels.com/photo/horseshoe-bend-arizona-1051553/"
+    },
+    {
+      "title": "黄石老忠实间歇泉",
+      "author": "Andrew Patrick Photo",
+      "source": "https://www.pexels.com/photo/old-faithful-erupting-under-the-blue-sky-14925061/"
+    },
+    {
+      "title": "圣莫尼卡蓝调时刻",
+      "author": "JINGQIN LIN",
+      "source": "https://www.pexels.com/photo/santa-monica-pier-at-twilight-with-neon-ferris-wheel-37186106/"
+    },
+    {
+      "title": "蒙大拿山脚的白色谷仓",
+      "author": "Kerry",
+      "source": "https://www.pexels.com/photo/mountain-near-house-534415/"
+    }
+  ]
+}

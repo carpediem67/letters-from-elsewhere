@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行手帐·Letters from Elsewhere"
+  short_description: "把旅行照片做成手帐贴纸，或自动选片、分章，制作可离线阅读的电子旅行手帐"
+  default_prompt: "使用 $trip-journal-stickers，把我的旅行照片整理成一本电子旅行手帐，保留原照片，生成专属贴纸，搭配撕纸、手写旁注和不同页面构图；输出可翻阅 HTML 与整页分享图片。"
